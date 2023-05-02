@@ -1,0 +1,4 @@
+ReceiptDate;Qty;Month;Year;WeekDay;LastQty;Interval;PeriodsSepLastTwoNnZeroDemands;ZNZDemand
+2012-12-04;4;12;2012;1;;;;1
+2012-12-05;0;12;2012;2;4.0;1.0;;0
+2012-12-06;1;12;2012;3;4.0;2.0;;1
